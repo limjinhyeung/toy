@@ -1,0 +1,13 @@
+.right-button {
+    float: right;
+    margin-right: 10px;
+}
+
+.detail-table {
+    border: 1px solid;
+    width: 400px;
+}
+
+td, th {
+    border: 1px solid;
+}
